@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract-factory", "abstract-factory\abstract-factory.csproj", "{9A233E5B-ED07-4D8E-8291-24BF4AF05382}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract-Factory", "Abstract-Factory\Abstract-Factory.csproj", "{9A233E5B-ED07-4D8E-8291-24BF4AF05382}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory-Method-v2", "Factory-Method-v2\Factory-Method-v2.csproj", "{911AAB9E-D489-4FD0-83C7-BE4D279E5DD7}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{5891CC99-2F38-4CA4-8416-70FA2EC745FA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent-builder", "Fluent-Builder\Fluent-Builder.csproj", "{2F0B21E8-AC40-4BA1-86BD-60AE45377363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype-Shallow-Copy", "Prototype-Shallow-Copy\Prototype-Shallow-Copy.csproj", "{5CA0B393-50A5-4572-98AE-D2454A447CDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +44,9 @@ Global
 		{2F0B21E8-AC40-4BA1-86BD-60AE45377363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F0B21E8-AC40-4BA1-86BD-60AE45377363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F0B21E8-AC40-4BA1-86BD-60AE45377363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA0B393-50A5-4572-98AE-D2454A447CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA0B393-50A5-4572-98AE-D2454A447CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA0B393-50A5-4572-98AE-D2454A447CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA0B393-50A5-4572-98AE-D2454A447CDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
