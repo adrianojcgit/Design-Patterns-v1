@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-Safety-Thread", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-Safety-Thread-Static", "Singleton-Safety-Thread-Static\Singleton-Safety-Thread-Static.csproj", "{73C16446-5596-4E32-8251-E615DD491088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-Eager-Loading", "Singleton-Eager-Loading\Singleton-Eager-Loading.csproj", "{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{73C16446-5596-4E32-8251-E615DD491088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73C16446-5596-4E32-8251-E615DD491088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73C16446-5596-4E32-8251-E615DD491088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
