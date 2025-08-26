@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-Safety-Thread-Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-Eager-Loading", "Singleton-Eager-Loading\Singleton-Eager-Loading.csproj", "{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract-Factory-v2", "Abstract-Factory-v2\Abstract-Factory-v2.csproj", "{645EB53E-EC92-4224-ADDD-EFE77F369382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC41D4D0-AFC2-4A16-9AFA-0C7720D62B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645EB53E-EC92-4224-ADDD-EFE77F369382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645EB53E-EC92-4224-ADDD-EFE77F369382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645EB53E-EC92-4224-ADDD-EFE77F369382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645EB53E-EC92-4224-ADDD-EFE77F369382}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
